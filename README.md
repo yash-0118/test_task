@@ -1,6 +1,6 @@
 # Laravel News Feed Project
 
-This Laravel project fetches news from an external API, implements search and sorting functionalities, and displays news with pagination.
+This Laravel project fetches news from an external API, implements search and sorting functionalities.
 
 ## Prerequisites
 

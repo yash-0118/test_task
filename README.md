@@ -16,4 +16,4 @@ Before you begin, ensure you have the following installed on your development en
    ```bash
    git clone <repository-url>
    cd <project-folder>
-   run this command **php artisan serve**
+   run this command php artisan serve
